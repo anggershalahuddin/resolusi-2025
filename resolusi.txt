@@ -4,5 +4,4 @@ Resolusi Tahun 2025
 - belajar node js
 - mematangkan JS
 - belajar React JS
-- saya menambahkan baris ini
 - dan juga ini
